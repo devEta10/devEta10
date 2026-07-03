@@ -31,7 +31,6 @@ I'm Ekta from **Kanchanpur, Nepal**. I'm passionate about **hardware electronics
 
 ## 📫 How to Reach Me
 
-- 📧 Email: ekta10kunwar@gmail.com
 - 🐙 GitHub: [@devEta10](https://github.com/devEta10)
 
 ---
