@@ -1,6 +1,6 @@
 # Hi, I'm Ekta Kunwar! 👋
 
-**Hardware Enthusiast | Python Learner | Electronics Hobbyist**
+**Hardware Enthusiast | Python Learner | Electronics Hobbyist | Physics Enthusiast**
 
 ---
 
